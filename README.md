@@ -1,2 +1,2 @@
-# 2021a-so2
-Repositorio de disciplina SO II - 2021A
+# 2021A-SO2
+Repositorio da disciplina de Sistemas Operacionais II - 2021A
